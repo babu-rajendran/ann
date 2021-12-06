@@ -1,6 +1,18 @@
 # ann
 Approximate nearest neighbor search
 
+This repo has the colab which implements the following ANN algorithms:
+
+a) LSH
+
+b) exhaustive search
+
+c) product quantization
+
+d) trees and graphs
+
+e) hnsw
+
 
 References:
 
